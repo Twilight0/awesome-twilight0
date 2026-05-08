@@ -1098,7 +1098,6 @@
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [oneplayhd/oneplayhd.github.io](https://github.com/oneplayhd/oneplayhd.github.io) - 
-- [possiblelife/gtrvlst](https://github.com/possiblelife/gtrvlst) - 
 - [DeadSomeOne/TizenBrew](https://github.com/DeadSomeOne/TizenBrew) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
 - [Stremio/stremio-addon-sdk](https://github.com/Stremio/stremio-addon-sdk) - 🧙 A Node.js SDK for creating and publishing Stremio add-ons
 - [cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs) - This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications.
