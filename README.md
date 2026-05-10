@@ -291,6 +291,7 @@
 
 ## api 
 
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [cporter202/API-mega-list](https://github.com/cporter202/API-mega-list) - This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub
 - [jonnekaunisto/simple-youtube-api](https://github.com/jonnekaunisto/simple-youtube-api) - Object-oriented Wrapper for Youtube API in Python
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -633,6 +634,7 @@
 
 ## fastapi 
 
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [mavroprovato/fuelpricesgr](https://github.com/mavroprovato/fuelpricesgr) - Database of fuel prices in Greece
 
 ## firefox 
@@ -665,6 +667,7 @@
 
 ## framework 
 
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [willforde/script.module.codequick](https://github.com/willforde/script.module.codequick) - Kodi addon framework
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -878,6 +881,8 @@
 
 ## json 
 
+- [simplejson/simplejson](https://github.com/simplejson/simplejson) - simplejson is a simple, fast, extensible JSON encoder/decoder for Python
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair) - Repair malformed JSON from LLMs, APIs, logs, and user input in Python.
 - [tirtharajsinha/clocket](https://github.com/tirtharajsinha/clocket) - Clocket is a desklet built for cinnamon DE based on gnome3
 
@@ -1407,6 +1412,8 @@
 
 ## python 
 
+- [simplejson/simplejson](https://github.com/simplejson/simplejson) - simplejson is a simple, fast, extensible JSON encoder/decoder for Python
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair) - Repair malformed JSON from LLMs, APIs, logs, and user input in Python.
 - [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
@@ -1527,6 +1534,8 @@
 
 ## python3 
 
+- [simplejson/simplejson](https://github.com/simplejson/simplejson) - simplejson is a simple, fast, extensible JSON encoder/decoder for Python
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [sns-sdks/python-youtube](https://github.com/sns-sdks/python-youtube) - A simple Python wrapper for YouTube Data API :sparkles: :cake: :sparkles: .
 - [martin-majlis/Wikipedia-API](https://github.com/martin-majlis/Wikipedia-API) - Python wrapper for Wikipedia
 - [wambugu71/Music-Player-Py](https://github.com/wambugu71/Music-Player-Py) - Music  player  for  All platforms
@@ -1744,6 +1753,7 @@
 
 ## web 
 
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
