@@ -303,6 +303,7 @@
 
 ## archlinux 
 
+- [X11Libre/pkgbuilds-arch-based](https://github.com/X11Libre/pkgbuilds-arch-based) - XLibre PKGBUILD repository for Arch Linux, Artix Linux and Arch Linux based distributions
 - [pacman-repo-builder/action](https://github.com/pacman-repo-builder/action) - Build a custom pacman repository from a collection of PKGBUILD directories
 - [AKotov-dev/adbmanager](https://github.com/AKotov-dev/adbmanager) - ADB manager for Android devices
 - [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
@@ -914,6 +915,8 @@
 
 ## linux 
 
+- [X11Libre/pkgbuilds-arch-based](https://github.com/X11Libre/pkgbuilds-arch-based) - XLibre PKGBUILD repository for Arch Linux, Artix Linux and Arch Linux based distributions
+- [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [jatinkrmalik/vocalinux](https://github.com/jatinkrmalik/vocalinux) - Free, open-source, 100% offline voice dictation for Linux. Speak and type anywhere via whisper.cpp, Whisper & VOSK engines, GPU-accelerated, works on X11 + Wayland!
 - [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) - A collection of my Frida instrumentation scripts to reverse engineer mobile apps and more.
 - [bemxio/linux-lts66-repo](https://github.com/bemxio/linux-lts66-repo) - An Arch Linux package repository for the Linux LTS 6.6 kernel
@@ -979,6 +982,7 @@
 
 ## macos 
 
+- [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -1096,10 +1100,15 @@
 
 ## opengl 
 
+- [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [pythonarcade/arcade](https://github.com/pythonarcade/arcade) - Easy to use Python library for creating 2D arcade games.
 
 ## others 
 
+- [X11Libre/xf86-video-nouveau](https://github.com/X11Libre/xf86-video-nouveau) - 
+- [ONykyf/nvidia-340-390-470-580-slackbuilds](https://github.com/ONykyf/nvidia-340-390-470-580-slackbuilds) - Slackbuilds for kernel modules, X driver, and nvidia utilities
+- [Sonic-DE/sonic-win](https://github.com/Sonic-DE/sonic-win) - fork of https://invent.kde.org/plasma/kwin-x11
+- [Sonic-DE/sonic-desktop-interface](https://github.com/Sonic-DE/sonic-desktop-interface) - fork of https://invent.kde.org/plasma/plasma-desktop
 - [ipfs-shipyard/py-ipfs-http-client](https://github.com/ipfs-shipyard/py-ipfs-http-client) - A python client library for the IPFS API
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
@@ -1771,6 +1780,7 @@
 
 ## windows 
 
+- [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [nefarius/BthPS3](https://github.com/nefarius/BthPS3) - Windows kernel-mode Bluetooth Profile & Filter Drivers for PS3 peripherals
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
