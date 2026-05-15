@@ -1105,6 +1105,7 @@
 
 ## others 
 
+- [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
 - [X11Libre/xf86-video-nouveau](https://github.com/X11Libre/xf86-video-nouveau) - 
 - [ONykyf/nvidia-340-390-470-580-slackbuilds](https://github.com/ONykyf/nvidia-340-390-470-580-slackbuilds) - Slackbuilds for kernel modules, X driver, and nvidia utilities
 - [Sonic-DE/sonic-win](https://github.com/Sonic-DE/sonic-win) - fork of https://invent.kde.org/plasma/kwin-x11
@@ -1149,7 +1150,6 @@
 - [komhsgr/m3u](https://github.com/komhsgr/m3u) - 
 - [MagnoEfren/flet](https://github.com/MagnoEfren/flet) - Repositorio para el desarrollo de interfaces gráficas en Python utilizando Flet, con enfoque en la simplicidad, flexibilidad y diseño intuitivo.                         Aprende Flet aquí 👇
 - [mammo0/kodi-repo-bootstrap](https://github.com/mammo0/kodi-repo-bootstrap) - Bootstrap GIT repo for setting up a Kodi repository
-- [goldengate2121/AliveGR-fix](https://github.com/goldengate2121/AliveGR-fix) - Fixes liveTV for AliveGR kodi addon
 - [kmranrg/FletSchool](https://github.com/kmranrg/FletSchool) - a place to learn Flet framework
 - [mnooner256/pyqrcode](https://github.com/mnooner256/pyqrcode) - Python 3 module to generate QR Codes
 - [sweakpl/qralarm-android](https://github.com/sweakpl/qralarm-android) - QRAlarm is an Android alarm clock application that lets the user turn off alarms by scanning the QR Code.
