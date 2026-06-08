@@ -47,6 +47,7 @@
 - [css](#css)
 - [dart](#dart)
 - [data](#data)
+- [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
@@ -243,7 +244,7 @@
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [sarbagyastha/youtube_player_flutter](https://github.com/sarbagyastha/youtube_player_flutter) - A Flutter plugin for inline playback or streaming of YouTube videos using the official iFrame Player API.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-- [tortuvshin/open-apps](https://github.com/tortuvshin/open-apps) - :iphone: List of open source Flutter applications :octocat:
+- [tortuvshin/open-apps](https://github.com/tortuvshin/open-apps) - A curated, self-refreshing directory of real open-source application codebases - built for developers who want to learn from production apps and find projects worth contributing to.
 - [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
 - [odrevet/yt-dlp-kivy](https://github.com/odrevet/yt-dlp-kivy) - User interface and port to several OS (including android) of yt-dlp using the kivy framework
 - [AKotov-dev/adbmanager](https://github.com/AKotov-dev/adbmanager) - ADB manager for Android devices
@@ -370,7 +371,7 @@
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flet-dev/awesome-flet](https://github.com/flet-dev/awesome-flet) - ⭐ An awesome list that curates the best Flet libraries, tools, tutorials, articles and more.
-- [tortuvshin/open-apps](https://github.com/tortuvshin/open-apps) - :iphone: List of open source Flutter applications :octocat:
+- [tortuvshin/open-apps](https://github.com/tortuvshin/open-apps) - A curated, self-refreshing directory of real open-source application codebases - built for developers who want to learn from production apps and find projects worth contributing to.
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) - Lovingly crafted AppImage tools and resources
@@ -523,15 +524,22 @@
 
 - [wambugu71/Music-Player-Py](https://github.com/wambugu71/Music-Player-Py) - Music  player  for  All platforms
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
-- [tortuvshin/open-apps](https://github.com/tortuvshin/open-apps) - :iphone: List of open source Flutter applications :octocat:
+- [tortuvshin/open-apps](https://github.com/tortuvshin/open-apps) - A curated, self-refreshing directory of real open-source application codebases - built for developers who want to learn from production apps and find projects worth contributing to.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## data 
 
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 
+## data-analysis 
+
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+
 ## data-science 
 
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 
@@ -541,6 +549,8 @@
 
 ## data-visualization 
 
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 
 ## database 
@@ -549,12 +559,15 @@
 
 ## deep-learning 
 
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 ## developer-tools 
 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [cporter202/API-mega-list](https://github.com/cporter202/API-mega-list) - This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub
 - [oktl/flet-fce-enhanced](https://github.com/oktl/flet-fce-enhanced) - Enhanced Flet CodeEditor control with file I/O, search/replace, command palette, 89    syntax themes, and keyboard shortcuts — built entirely in Python
@@ -653,7 +666,7 @@
 - [sarbagyastha/youtube_player_flutter](https://github.com/sarbagyastha/youtube_player_flutter) - A Flutter plugin for inline playback or streaming of YouTube videos using the official iFrame Player API.
 - [Daxexs/flet-easy](https://github.com/Daxexs/flet-easy) - 🔥User-friendly add-on package for Flet, offering a cleaner code structure with numerous customizable features like JWT, router, decorators, middleware and more.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-- [tortuvshin/open-apps](https://github.com/tortuvshin/open-apps) - :iphone: List of open source Flutter applications :octocat:
+- [tortuvshin/open-apps](https://github.com/tortuvshin/open-apps) - A curated, self-refreshing directory of real open-source application codebases - built for developers who want to learn from production apps and find projects worth contributing to.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [watchakorn-18k/Simple-App-from-Flet](https://github.com/watchakorn-18k/Simple-App-from-Flet) - A Simple App built with Python and Flet. 🐍💻 Easy to use and customize. 🤗 | แอพอย่างง่ายที่สร้างด้วย Python และ Flet 🐍💻 ใช้งานง่ายและปรับแต่งได้ 🤗
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
@@ -661,7 +674,7 @@
 ## flutter-apps 
 
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-- [tortuvshin/open-apps](https://github.com/tortuvshin/open-apps) - :iphone: List of open source Flutter applications :octocat:
+- [tortuvshin/open-apps](https://github.com/tortuvshin/open-apps) - A curated, self-refreshing directory of real open-source application codebases - built for developers who want to learn from production apps and find projects worth contributing to.
 
 ## framework 
 
@@ -824,7 +837,7 @@
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [sarbagyastha/youtube_player_flutter](https://github.com/sarbagyastha/youtube_player_flutter) - A Flutter plugin for inline playback or streaming of YouTube videos using the official iFrame Player API.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-- [tortuvshin/open-apps](https://github.com/tortuvshin/open-apps) - :iphone: List of open source Flutter applications :octocat:
+- [tortuvshin/open-apps](https://github.com/tortuvshin/open-apps) - A curated, self-refreshing directory of real open-source application codebases - built for developers who want to learn from production apps and find projects worth contributing to.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [codelv/enaml-native-cli](https://github.com/codelv/enaml-native-cli) - CLI and package manager for building enaml-native apps
@@ -973,6 +986,8 @@
 
 ## machine-learning 
 
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
@@ -1103,6 +1118,8 @@
 
 ## others 
 
+- [papoteur-mga/elograf](https://github.com/papoteur-mga/elograf) - Utility for launching and configuring nerd-dictation
+- [ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation) - Simple, hackable offline speech to text - using the VOSK-API.
 - [probonopd/12to11](https://github.com/probonopd/12to11) - 
 - [sexfrance/Cloudflare-Bypass](https://github.com/sexfrance/Cloudflare-Bypass) - Get the "cf_clearance" cookie from any website
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
@@ -1423,6 +1440,8 @@
 
 ## python 
 
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [simplejson/simplejson](https://github.com/simplejson/simplejson) - simplejson is a simple, fast, extensible JSON encoder/decoder for Python
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair) - Repair malformed JSON from LLMs, APIs, logs, and user input in Python.
@@ -1720,6 +1739,7 @@
 
 ## ui 
 
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [rawpython/remi](https://github.com/rawpython/remi) - Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
