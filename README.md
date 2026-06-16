@@ -827,7 +827,6 @@
 
 ## image-processing 
 
-- [Summaw/genCraft-imageGen](https://github.com/Summaw/genCraft-imageGen) - A basic request based python tool to automate the process of generating images at https://gencraft.com
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (fork)
 
 ## ios 
