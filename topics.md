@@ -1117,6 +1117,8 @@
 
 ## others 
 
+- [wesammustafa/OpenCode-Everything-You-Need-to-Know](https://github.com/wesammustafa/OpenCode-Everything-You-Need-to-Know) - The ultimate all-in-one guide to mastering OpenCode. From installation, Zen model router setup, TUI mastery, commands, skills, agents, workflows, automation, and integrations, to MCP servers, plugins,
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [CloverHackyColor/CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) - Bootloader for macOS, Windows and Linux in UEFI and in legacy mode
 - [papoteur-mga/elograf](https://github.com/papoteur-mga/elograf) - Utility for launching and configuring nerd-dictation
 - [ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation) - Simple, hackable offline speech to text - using the VOSK-API.
@@ -1171,7 +1173,6 @@
 - [mnooner256/pyqrcode](https://github.com/mnooner256/pyqrcode) - Python 3 module to generate QR Codes
 - [sweakpl/qralarm-android](https://github.com/sweakpl/qralarm-android) - QRAlarm is an Android alarm clock application that lets the user turn off alarms by scanning the QR Code.
 - [elParaguayo/qtile-extras](https://github.com/elParaguayo/qtile-extras) - Somewhere to store things I create for qtile that probably won't end up in the official repo
-- [DyadikosNous/myProjects](https://github.com/DyadikosNous/myProjects) - 
 - [Conceiva/MezzmoKodiPlugin](https://github.com/Conceiva/MezzmoKodiPlugin) - Kodi addon for the Mezzmo media server
 - [pyproject-toml/pyproject-toml](https://github.com/pyproject-toml/pyproject-toml) - Project intend to implement PEP 517, 518, 621, 631 and so on.
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
