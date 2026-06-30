@@ -1175,7 +1175,7 @@
 - [SuperSonic65535/zestiso-archiso](https://github.com/SuperSonic65535/zestiso-archiso) - Custom ArchISO profiles for ZestISO
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful
 - [AlexsJones/llmserve](https://github.com/AlexsJones/llmserve) - A simple TUI for serving local LLM models. Pick a model, pick a backend, serve it
-- [Pavelevich/llm-checker](https://github.com/Pavelevich/llm-checker) - Advanced CLI tool that scans your hardware and tells you exactly which LLM or sLLM models you can run locally, with full Ollama integration.
+- [signerless/llm-checker](https://github.com/signerless/llm-checker) - Advanced CLI tool that scans your hardware and tells you exactly which LLM or sLLM models you can run locally, with full Ollama integration.
 - [tonhowtf/omniget-plugin-convert](https://github.com/tonhowtf/omniget-plugin-convert) - 
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [pywinrt/pywinrt](https://github.com/pywinrt/pywinrt) - Python projection of Windows runtime (WinRT) types.
