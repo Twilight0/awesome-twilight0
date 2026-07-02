@@ -107,6 +107,7 @@
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -930,6 +931,10 @@
 
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
+## learn-to-code 
+
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
+
 ## learning 
 
 - [pystage/pystage](https://github.com/pystage/pystage) - Scratch-like Python programming
@@ -1159,8 +1164,8 @@
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
 - [X11Libre/xf86-video-nouveau](https://github.com/X11Libre/xf86-video-nouveau) - 
 - [ONykyf/nvidia-340-390-470-580-slackbuilds](https://github.com/ONykyf/nvidia-340-390-470-580-slackbuilds) - Slackbuilds for kernel modules, X driver, and nvidia utilities
-- [Sonic-DE/sonic-win](https://github.com/Sonic-DE/sonic-win) - fork of https://invent.kde.org/plasma/kwin-x11
-- [Sonic-DE/sonic-desktop-interface](https://github.com/Sonic-DE/sonic-desktop-interface) - fork of https://invent.kde.org/plasma/plasma-desktop
+- [Sonic-DE/sonic-win](https://github.com/Sonic-DE/sonic-win) - X11 window manager and compositor
+- [Sonic-DE/sonic-desktop-interface](https://github.com/Sonic-DE/sonic-desktop-interface) - Sonic for the desktop form factor
 - [ipfs-shipyard/py-ipfs-http-client](https://github.com/ipfs-shipyard/py-ipfs-http-client) - A python client library for the IPFS API
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
