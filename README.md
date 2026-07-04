@@ -33,6 +33,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
@@ -464,6 +465,10 @@
 
 - [fregante/browser-extension-template](https://github.com/fregante/browser-extension-template) - 📕 Barebones boilerplate with Parcel 2, options handler and auto-publishing
 
+## claude 
+
+- [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
 ## claude-code 
 
 - [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public) - Collaborator is a place to create with agents.
@@ -686,6 +691,7 @@
 ## flutter 
 
 - [oktl/flet-fce-enhanced](https://github.com/oktl/flet-fce-enhanced) - Enhanced Flet CodeEditor control with file I/O, search/replace, command palette, 89    syntax themes, and keyboard shortcuts — built entirely in Python
+- [BogdanovychA/flet-storage](https://github.com/BogdanovychA/flet-storage) - A lightweight utility for simplified client-side storage management in Flet applications.
 - [wambugu71/Music-Player-Py](https://github.com/wambugu71/Music-Player-Py) - Music  player  for  All platforms
 - [sarbagyastha/youtube_player_flutter](https://github.com/sarbagyastha/youtube_player_flutter) - A Flutter plugin for inline playback or streaming of YouTube videos using the official iFrame Player API.
 - [Daxexs/flet-easy](https://github.com/Daxexs/flet-easy) - 🔥User-friendly add-on package for Flet, offering a cleaner code structure with numerous customizable features like JWT, router, decorators, middleware and more.
@@ -1152,6 +1158,7 @@
 
 ## others 
 
+- [grimpy/mconnect](https://github.com/grimpy/mconnect) - mconnect - KDE Connect protocol implementation in Vala/C
 - [rominirani/antigravity-skills](https://github.com/rominirani/antigravity-skills) - Sample Google Antigravity Skills
 - [rominirani/google-antigravity-community-hub](https://github.com/rominirani/google-antigravity-community-hub) - 
 - [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能
@@ -1200,7 +1207,6 @@
 - [filipposfilippides/greektvm3u](https://github.com/filipposfilippides/greektvm3u) - Greek channel stream m3u
 - [Wanna-Pizza/flet-desktop-drop](https://github.com/Wanna-Pizza/flet-desktop-drop) - 
 - [VoHeCode/ReplaceIcons](https://github.com/VoHeCode/ReplaceIcons) - Replaces all Android App Icons from one Icon file
-- [BogdanovychA/flet-storage](https://github.com/BogdanovychA/flet-storage) - A lightweight utility for simplified client-side storage management in Flet applications.
 - [AdamMusa/ruflet](https://github.com/AdamMusa/ruflet) - Ruflet enables developers to build fully native mobile, desktop, and web applications in Ruby. No frontend experience required.
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [chadparry/kodi-repository.chad.parry.org](https://github.com/chadparry/kodi-repository.chad.parry.org) - Kodi add-on repository
