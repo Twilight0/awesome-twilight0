@@ -257,6 +257,7 @@
 
 ## android 
 
+- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [RikkaApps/Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - The API and the developer guide for Shizuku and Sui.
 - [cocool97/adb_client](https://github.com/cocool97/adb_client) - Rust & Python ADB (Android Debug Bridge) client library
 - [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) - A collection of my Frida instrumentation scripts to reverse engineer mobile apps and more.
@@ -1198,6 +1199,8 @@
 
 ## others 
 
+- [dart-lang/skills](https://github.com/dart-lang/skills) - 
+- [flutter/agent-plugins](https://github.com/flutter/agent-plugins) - 
 - [grimpy/mconnect](https://github.com/grimpy/mconnect) - mconnect - KDE Connect protocol implementation in Vala/C
 - [rominirani/antigravity-skills](https://github.com/rominirani/antigravity-skills) - Sample Google Antigravity Skills
 - [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能
@@ -1855,6 +1858,7 @@
 
 ## video 
 
+- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [prateekralhan/Python-based-Youtube-downloader](https://github.com/prateekralhan/Python-based-Youtube-downloader) - A simple GUI for downloading youtube videos built using Python
 - [PaulleDemon/tkVideoPlayer](https://github.com/PaulleDemon/tkVideoPlayer) - Video player for tkinter.
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
