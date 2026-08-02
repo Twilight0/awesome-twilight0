@@ -1233,6 +1233,7 @@
 
 ## others 
 
+- [NewPipeX/NewPipeX](https://github.com/NewPipeX/NewPipeX) - NewPipe, eXtended!
 - [DevCoreXOfficial/core-termux](https://github.com/DevCoreXOfficial/core-termux) - Turn Termux into a complete development workstation with AI coding agents, a modern code editor, databases, automation, and developer tools.
 - [Hope2333/opencode-termux](https://github.com/Hope2333/opencode-termux) - OpenCode on Termux (OCT)
 - [dart-lang/skills](https://github.com/dart-lang/skills) - 
