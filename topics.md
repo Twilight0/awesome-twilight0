@@ -257,6 +257,7 @@
 
 ## ai-agents 
 
+- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto) - Memory that AI Agents Love!
@@ -363,6 +364,7 @@
 
 ## automation 
 
+- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [cporter202/API-mega-list](https://github.com/cporter202/API-mega-list) - This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub
 - [boromir674/cookiecutter-python-package](https://github.com/boromir674/cookiecutter-python-package) - :globe_with_meridians: Scaffold modern Python Package Project, from a configurable Template, delivering public releases to PyPI and Dockerhub and having a CI/CD Pipeline, which supports DevOps process
@@ -513,6 +515,7 @@
 
 ## claude 
 
+- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [rabfulton/ChatGTK](https://github.com/rabfulton/ChatGTK) - Chatgpt like GTK Linux Client for AI large language models
@@ -524,6 +527,7 @@
 
 ## claude-code 
 
+- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [alpbahadur/49Agents](https://github.com/alpbahadur/49Agents) - Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluste
@@ -1080,6 +1084,7 @@
 
 ## llm 
 
+- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -1156,6 +1161,7 @@
 
 ## mcp 
 
+- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
@@ -1594,6 +1600,7 @@
 
 ## prompt-engineering 
 
+- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [wesammustafa/opencode-primer](https://github.com/wesammustafa/opencode-primer) - Master OpenCode, the open-source AI coding agent — setup, agents, skills, plugins, MCP, Zen & headless CI.
