@@ -1282,6 +1282,7 @@
 
 ## others 
 
+- [OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW) - Custom GeForce Now Client Named OpenNOW
 - [NewPipeX/NewPipeX](https://github.com/NewPipeX/NewPipeX) - NewPipe, eXtended!
 - [DevCoreXOfficial/core-termux](https://github.com/DevCoreXOfficial/core-termux) - Turn Termux into a complete development workstation with AI coding agents, a modern code editor, databases, automation, and developer tools.
 - [Hope2333/opencode-termux](https://github.com/Hope2333/opencode-termux) - OpenCode on Termux (OCT)
@@ -1303,7 +1304,7 @@
 - [Sonic-DE/sonic-win](https://github.com/Sonic-DE/sonic-win) - X11 window manager and compositor
 - [Sonic-DE/sonic-desktop-interface](https://github.com/Sonic-DE/sonic-desktop-interface) - Sonic for the desktop form factor
 - [ipfs-shipyard/py-ipfs-http-client](https://github.com/ipfs-shipyard/py-ipfs-http-client) - A python client library for the IPFS API
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [oneplayhd/oneplayhd.github.io](https://github.com/oneplayhd/oneplayhd.github.io) - 
 - [DeadSomeOne/TizenBrew](https://github.com/DeadSomeOne/TizenBrew) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
