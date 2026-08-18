@@ -1287,6 +1287,7 @@
 
 ## others 
 
+- [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
 - [OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW) - Custom GeForce Now Client Named OpenNOW
 - [NewPipeX/NewPipeX](https://github.com/NewPipeX/NewPipeX) - NewPipe, eXtended!
 - [DevCoreXOfficial/core-termux](https://github.com/DevCoreXOfficial/core-termux) - Turn Termux into a complete development workstation with AI coding agents, a modern code editor, databases, automation, and developer tools.
@@ -1344,7 +1345,7 @@
 - [AdamMusa/ruflet](https://github.com/AdamMusa/ruflet) - Ruflet enables developers to build fully native mobile, desktop, and web applications in Ruby. No frontend experience required.
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [chadparry/kodi-repository.chad.parry.org](https://github.com/chadparry/kodi-repository.chad.parry.org) - Kodi add-on repository
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
+- [frida/frida](https://github.com/frida/frida) - Main repo for hosting release binaries
 - [komhsgr/m3u](https://github.com/komhsgr/m3u) - 
 - [MagnoEfren/flet](https://github.com/MagnoEfren/flet) - Repositorio para el desarrollo de interfaces gráficas en Python utilizando Flet, con enfoque en la simplicidad, flexibilidad y diseño intuitivo.                         Aprende Flet aquí 👇
 - [mammo0/kodi-repo-bootstrap](https://github.com/mammo0/kodi-repo-bootstrap) - Bootstrap GIT repo for setting up a Kodi repository
