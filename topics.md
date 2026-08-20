@@ -1287,6 +1287,7 @@
 
 ## others 
 
+- [Alisonsantos77/flet_android_notify](https://github.com/Alisonsantos77/flet_android_notify) - 
 - [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
 - [OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW) - Custom GeForce Now Client Named OpenNOW
 - [NewPipeX/NewPipeX](https://github.com/NewPipeX/NewPipeX) - NewPipe, eXtended!
@@ -1319,7 +1320,6 @@
 - [Vali-98/ChatterUI](https://github.com/Vali-98/ChatterUI) - A frontend for running models on mobile or connecting to your preferred API providers.
 - [eu-digital-identity-wallet/av-app-android-wallet-ui](https://github.com/eu-digital-identity-wallet/av-app-android-wallet-ui) - 
 - [BryanLunduke/DoesItAgeVerify](https://github.com/BryanLunduke/DoesItAgeVerify) - The age verification status of Open Source Operating Systems
-- [ndonkoHenri/flet_android_notify](https://github.com/ndonkoHenri/flet_android_notify) - 
 - [SuperSonic65535/zestiso-archiso](https://github.com/SuperSonic65535/zestiso-archiso) - Custom ArchISO profiles for ZestISO
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful
 - [AlexsJones/llmserve](https://github.com/AlexsJones/llmserve) - A simple TUI for serving local LLM models. Pick a model, pick a backend, serve it
