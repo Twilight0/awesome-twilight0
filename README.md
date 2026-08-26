@@ -1317,6 +1317,7 @@
 - [papoteur-mga/elograf](https://github.com/papoteur-mga/elograf) - Utility for launching and configuring nerd-dictation
 - [ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation) - Simple, hackable offline speech to text - using the VOSK-API.
 - [probonopd/12to11](https://github.com/probonopd/12to11) - 
+- [sexfrance/Cloudflare-Bypass](https://github.com/sexfrance/Cloudflare-Bypass) - Get the "cf_clearance" cookie from any website
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
 - [X11Libre/xf86-video-nouveau](https://github.com/X11Libre/xf86-video-nouveau) - 
 - [ONykyf/nvidia-340-390-470-580-slackbuilds](https://github.com/ONykyf/nvidia-340-390-470-580-slackbuilds) - Slackbuilds for kernel modules, X driver, and nvidia utilities
