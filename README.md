@@ -1297,7 +1297,6 @@
 
 ## others 
 
-- [mountsea-ai/ai-video-generator-api](https://github.com/mountsea-ai/ai-video-generator-api) - 🎬 All-in-One AI Video Generator API — Sora 2 + Veo 3 + Kling AI + Runway + Hailuo in one API key. Cheapest text-to-video & image-to-video API. Cheaper than Fal.ai & Replicate.
 - [cporter202/cheap-sora2-api](https://github.com/cporter202/cheap-sora2-api) - This GitHub repository provides a step-by-step guide to accessing the Sora 2 API for roughly 70% cheaper than purchasing it directly from OpenAI, while delivering the exact same capabilities.
 - [Alisonsantos77/flet_android_notify](https://github.com/Alisonsantos77/flet_android_notify) - 
 - [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
@@ -1324,7 +1323,7 @@
 - [Sonic-DE/sonic-win](https://github.com/Sonic-DE/sonic-win) - X11 window manager and compositor
 - [Sonic-DE/sonic-desktop-interface](https://github.com/Sonic-DE/sonic-desktop-interface) - Sonic for the desktop form factor
 - [ipfs-shipyard/py-ipfs-http-client](https://github.com/ipfs-shipyard/py-ipfs-http-client) - A python client library for the IPFS API
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [oneplayhd/oneplayhd.github.io](https://github.com/oneplayhd/oneplayhd.github.io) - 
 - [DeadSomeOne/TizenBrew](https://github.com/DeadSomeOne/TizenBrew) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
