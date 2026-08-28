@@ -1297,13 +1297,17 @@
 
 ## others 
 
+- [Muddassir-Farooq-official/flet_pdfrx](https://github.com/Muddassir-Farooq-official/flet_pdfrx) - Python To Dart Bridge - Introducing flet-pdfrx - High-Performance PDF Viewer for Flet.
+- [demnzy/nu-age-frontend](https://github.com/demnzy/nu-age-frontend) - 
+- [zaim-tech/flet-webview-all](https://github.com/zaim-tech/flet-webview-all) - 
+- [zox47/flet-paypal](https://github.com/zox47/flet-paypal) - 
 - [cporter202/cheap-sora2-api](https://github.com/cporter202/cheap-sora2-api) - This GitHub repository provides a step-by-step guide to accessing the Sora 2 API for roughly 70% cheaper than purchasing it directly from OpenAI, while delivering the exact same capabilities.
 - [Alisonsantos77/flet_android_notify](https://github.com/Alisonsantos77/flet_android_notify) - 
 - [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
 - [OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW) - Custom GeForce Now Client Named OpenNOW
 - [NewPipeX/NewPipeX](https://github.com/NewPipeX/NewPipeX) - NewPipe, eXtended!
 - [DevCoreXOfficial/core-termux](https://github.com/DevCoreXOfficial/core-termux) - Turn Termux into a complete development workstation with AI coding agents, a modern code editor, databases, automation, and developer tools.
-- [Hope2333/opencode-termux](https://github.com/Hope2333/opencode-termux) - OpenCode on Termux (OCT)
+- [Hope2333/opencode-termux](https://github.com/Hope2333/opencode-termux) - OpenCode on Termux: native bionic mainline (stable since 27/28, zero-glibc single ELF with TUI) + glibc appendix (opencode-glibc) + frozen standalone rollback package (opencode-glibc-standalone); open
 - [dart-lang/skills](https://github.com/dart-lang/skills) - 
 - [flutter/agent-plugins](https://github.com/flutter/agent-plugins) - 
 - [grimpy/mconnect](https://github.com/grimpy/mconnect) - mconnect - KDE Connect protocol implementation in Vala/C
