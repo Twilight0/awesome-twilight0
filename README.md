@@ -280,6 +280,7 @@
 
 ## android 
 
+- [zaim-tech/flet-webview-all](https://github.com/zaim-tech/flet-webview-all) - flet-webview-all is a Flet extension that embeds web content in a Flet application. It wraps webview_all, a Flutter WebView implementation with support for Android, iOS, Linux, macOS, Windows, and the
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
@@ -546,7 +547,7 @@
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [alpbahadur/49Agents](https://github.com/alpbahadur/49Agents) - Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluste
+- [alpbahadur/49-IDE](https://github.com/alpbahadur/49-IDE) - Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluste
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public) - Collaborator is a place to create with agents.
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
@@ -558,7 +559,7 @@
 
 - [MorpheApp/morphe-desktop](https://github.com/MorpheApp/morphe-desktop) - Morphe desktop patching tool
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
-- [alpbahadur/49Agents](https://github.com/alpbahadur/49Agents) - Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluste
+- [alpbahadur/49-IDE](https://github.com/alpbahadur/49-IDE) - Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluste
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [wesammustafa/opencode-primer](https://github.com/wesammustafa/opencode-primer) - Master OpenCode, the open-source AI coding agent — setup, agents, skills, plugins, MCP, Zen & headless CI.
 - [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair) - Repair malformed JSON from LLMs, APIs, logs, and user input in Python.
@@ -966,6 +967,7 @@
 
 ## ios 
 
+- [zaim-tech/flet-webview-all](https://github.com/zaim-tech/flet-webview-all) - flet-webview-all is a Flet extension that embeds web content in a Flet application. It wraps webview_all, a Flutter WebView implementation with support for Android, iOS, Linux, macOS, Windows, and the
 - [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) - A collection of my Frida instrumentation scripts to reverse engineer mobile apps and more.
 - [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
@@ -1071,6 +1073,7 @@
 
 ## linux 
 
+- [zaim-tech/flet-webview-all](https://github.com/zaim-tech/flet-webview-all) - flet-webview-all is a Flet extension that embeds web content in a Flet application. It wraps webview_all, a Flutter WebView implementation with support for Android, iOS, Linux, macOS, Windows, and the
 - [rabfulton/ChatGTK](https://github.com/rabfulton/ChatGTK) - Chatgpt like GTK Linux Client for AI large language models
 - [X11Libre/pkgbuilds-arch-based](https://github.com/X11Libre/pkgbuilds-arch-based) - XLibre PKGBUILD repository for Arch Linux, Artix Linux and Arch Linux based distributions
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
@@ -1154,6 +1157,7 @@
 
 ## macos 
 
+- [zaim-tech/flet-webview-all](https://github.com/zaim-tech/flet-webview-all) - flet-webview-all is a Flet extension that embeds web content in a Flet application. It wraps webview_all, a Flutter WebView implementation with support for Android, iOS, Linux, macOS, Windows, and the
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
@@ -1307,9 +1311,9 @@
 
 ## others 
 
+- [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge) - A tool to manage building cross-platform binary wheels for mobile devices
 - [Muddassir-Farooq-official/flet_pdfrx](https://github.com/Muddassir-Farooq-official/flet_pdfrx) - Python To Dart Bridge - Introducing flet-pdfrx - High-Performance PDF Viewer for Flet.
 - [demnzy/nu-age-frontend](https://github.com/demnzy/nu-age-frontend) - 
-- [zaim-tech/flet-webview-all](https://github.com/zaim-tech/flet-webview-all) - 
 - [zox47/flet-paypal](https://github.com/zox47/flet-paypal) - 
 - [cporter202/cheap-sora2-api](https://github.com/cporter202/cheap-sora2-api) - This GitHub repository provides a step-by-step guide to accessing the Sora 2 API for roughly 70% cheaper than purchasing it directly from OpenAI, while delivering the exact same capabilities.
 - [Alisonsantos77/flet_android_notify](https://github.com/Alisonsantos77/flet_android_notify) - 
@@ -1653,6 +1657,7 @@
 
 ## python 
 
+- [zaim-tech/flet-webview-all](https://github.com/zaim-tech/flet-webview-all) - flet-webview-all is a Flet extension that embeds web content in a Flet application. It wraps webview_all, a Flutter WebView implementation with support for Android, iOS, Linux, macOS, Windows, and the
 - [sh13y/Facebook-Video-Download-API](https://github.com/sh13y/Facebook-Video-Download-API) - Production-ready Facebook Video Downloader API with web interface. Built with FastAPI + yt-dlp, featuring audio merging, multiple quality options, and streaming downloads.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
@@ -2034,6 +2039,7 @@
 
 ## web 
 
+- [zaim-tech/flet-webview-all](https://github.com/zaim-tech/flet-webview-all) - flet-webview-all is a Flet extension that embeds web content in a Flet application. It wraps webview_all, a Flutter WebView implementation with support for Android, iOS, Linux, macOS, Windows, and the
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -2053,6 +2059,7 @@
 
 ## windows 
 
+- [zaim-tech/flet-webview-all](https://github.com/zaim-tech/flet-webview-all) - flet-webview-all is a Flet extension that embeds web content in a Flet application. It wraps webview_all, a Flutter WebView implementation with support for Android, iOS, Linux, macOS, Windows, and the
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [nefarius/BthPS3](https://github.com/nefarius/BthPS3) - Windows kernel-mode Bluetooth Profile & Filter Drivers for PS3 peripherals
