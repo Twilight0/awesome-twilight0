@@ -1350,7 +1350,7 @@
 - [Sonic-DE/sonic-win](https://github.com/Sonic-DE/sonic-win) - X11 window manager and compositor
 - [Sonic-DE/sonic-desktop-interface](https://github.com/Sonic-DE/sonic-desktop-interface) - Sonic for the desktop form factor
 - [ipfs-shipyard/py-ipfs-http-client](https://github.com/ipfs-shipyard/py-ipfs-http-client) - A python client library for the IPFS API
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harne
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [oneplayhd/oneplayhd.github.io](https://github.com/oneplayhd/oneplayhd.github.io) - 
 - [DeadSomeOne/TizenBrew](https://github.com/DeadSomeOne/TizenBrew) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
