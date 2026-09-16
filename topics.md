@@ -1319,6 +1319,7 @@
 
 ## others 
 
+- [iamramo/opencode-sessions](https://github.com/iamramo/opencode-sessions) - 
 - [Twilight0/muse-code](https://github.com/Twilight0/muse-code) - Meta's Muse Code agent packaging for Arch Linux (AUR) and Android (Termux ARM64) with session management and legacy CPU support
 - [codejunkie99/fable-orchestrator](https://github.com/codejunkie99/fable-orchestrator) - Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.
 - [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge) - A tool to manage building cross-platform binary wheels for mobile devices
