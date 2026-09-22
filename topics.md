@@ -1342,7 +1342,7 @@
 - [OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW) - Custom GeForce Now Client Named OpenNOW
 - [NewPipeX/NewPipeX](https://github.com/NewPipeX/NewPipeX) - NewPipe, eXtended!
 - [DevCoreXOfficial/core-termux](https://github.com/DevCoreXOfficial/core-termux) - Turn Termux into a complete development workstation with AI coding agents, a modern code editor, databases, automation, and developer tools.
-- [Hope2333/opencode-termux](https://github.com/Hope2333/opencode-termux) - OpenCode on Termux: native bionic mainline (stable since 27/28, zero-glibc single ELF with TUI) + glibc appendix (opencode-glibc) + frozen standalone rollback package (opencode-glibc-standalone); open
+- [Hope2333/opencode-termux](https://github.com/Hope2333/opencode-termux) - OpenCode on Termux: native bionic builds (v2 mainline) + v1 maintenance line
 - [dart-lang/skills](https://github.com/dart-lang/skills) - 
 - [flutter/agent-plugins](https://github.com/flutter/agent-plugins) - 
 - [grimpy/mconnect](https://github.com/grimpy/mconnect) - mconnect - KDE Connect protocol implementation in Vala/C
