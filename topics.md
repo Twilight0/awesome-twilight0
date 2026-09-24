@@ -10,6 +10,7 @@
 - [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
 - [android](#android)
@@ -260,6 +261,14 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [qpython-android/qpython](https://github.com/qpython-android/qpython) - QPython is an Android Python engine primarily designed for Python and AI learners. It offers a range of impressive features to enhance Python programming experience.
+
+## ai-agent 
+
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
+- [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) - AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+- [decolua/9remote](https://github.com/decolua/9remote) - 📱 Terminal in Your Pocket — Control Claude Code, Codex, Gemini CLI & your Mac/Linux/Windows from any phone or browser. Vibe coding from anywhere. Alternative to MobileCLI, Claude Remote, vibe-remote, 
 
 ## ai-agents 
 
@@ -546,7 +555,7 @@
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 
 ## claude-code 
@@ -569,7 +578,7 @@
 - [MorpheApp/morphe-desktop](https://github.com/MorpheApp/morphe-desktop) - Morphe desktop patching tool
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [alpbahadur/49-IDE](https://github.com/alpbahadur/49-IDE) - Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluste
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [wesammustafa/opencode-primer](https://github.com/wesammustafa/opencode-primer) - Master OpenCode, the open-source AI coding agent — setup, agents, skills, plugins, MCP, Zen & headless CI.
 - [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair) - Repair malformed JSON from LLMs, APIs, logs, and user input in Python.
 - [gmou3/scrapetubefzf](https://github.com/gmou3/scrapetubefzf) - Terminal-based portal to YouTube. An alternative to ytfzf.
@@ -1136,7 +1145,7 @@
 - [rabfulton/ChatGTK](https://github.com/rabfulton/ChatGTK) - Chatgpt like GTK Linux Client for AI large language models
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [wesammustafa/opencode-primer](https://github.com/wesammustafa/opencode-primer) - Master OpenCode, the open-source AI coding agent — setup, agents, skills, plugins, MCP, Zen & headless CI.
 - [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair) - Repair malformed JSON from LLMs, APIs, logs, and user input in Python.
@@ -1213,7 +1222,7 @@
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [Nwokike/flet-mcp-server](https://github.com/Nwokike/flet-mcp-server) - Model Context Protocol (MCP) server that dynamically fetches and serves official Flet resources to AI agents, including documentation, controls, packages, and ecosystem components.
@@ -1319,7 +1328,7 @@
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 - [rabfulton/ChatGTK](https://github.com/rabfulton/ChatGTK) - Chatgpt like GTK Linux Client for AI large language models
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 
 ## opengl 
@@ -1889,10 +1898,11 @@
 
 ## rust 
 
+- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [cocool97/adb_client](https://github.com/cocool97/adb_client) - Rust & Python ADB (Android Debug Bridge) client library
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -1946,7 +1956,7 @@
 ## terminal 
 
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public) - Collaborator is a place to create with agents.
 - [wesammustafa/opencode-primer](https://github.com/wesammustafa/opencode-primer) - Master OpenCode, the open-source AI coding agent — setup, agents, skills, plugins, MCP, Zen & headless CI.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
@@ -1996,7 +2006,7 @@
 ## tui 
 
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 
 ## twitter 
 
@@ -2008,7 +2018,7 @@
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
