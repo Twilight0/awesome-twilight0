@@ -375,6 +375,7 @@
 
 ## archlinux 
 
+- [askarne/nvidia-390xx-cachyos-kernel-7.2](https://github.com/askarne/nvidia-390xx-cachyos-kernel-7.2) - NVIDIA 390.157 legacy driver support and Linux 7.2 kernel fixes for Arch Linux, CachyOS, and Arch-based distributions, including build patches, DKMS/LLVM compatibility, DRM KMS validation, Wayland/X11
 - [X11Libre/pkgbuilds-arch-based](https://github.com/X11Libre/pkgbuilds-arch-based) - XLibre PKGBUILD repository for Arch Linux, Artix Linux and Arch Linux based distributions
 - [pacman-repo-builder/action](https://github.com/pacman-repo-builder/action) - Build a custom pacman repository from a collection of PKGBUILD directories
 - [AKotov-dev/adbmanager](https://github.com/AKotov-dev/adbmanager) - ADB manager for Android devices
@@ -806,6 +807,7 @@
 
 ## firefox 
 
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -1356,7 +1358,6 @@
 
 ## others 
 
-- [askarne/nvidia-390xx-cachyos-kernel-7.2](https://github.com/askarne/nvidia-390xx-cachyos-kernel-7.2) - 
 - [Nwokike/flet-terminal](https://github.com/Nwokike/flet-terminal) - Native GPU-accelerated Terminal control for Flet using xterm.dart
 - [iamramo/opencode-sessions](https://github.com/iamramo/opencode-sessions) - 
 - [Twilight0/muse-code](https://github.com/Twilight0/muse-code) - Meta's Muse Code agent packaging for Arch Linux (AUR) and Android (Termux ARM64) with session management and legacy CPU support
