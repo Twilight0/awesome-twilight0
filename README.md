@@ -177,6 +177,7 @@
 - [software](#software)
 - [sql](#sql)
 - [stable-diffusion](#stable-diffusion)
+- [swift](#swift)
 - [symfony](#symfony)
 - [terminal](#terminal)
 - [termux](#termux)
@@ -204,6 +205,7 @@
 - [windows](#windows)
 - [windows-11](#windows-11)
 - [workflow](#workflow)
+- [xcode](#xcode)
 - [xml](#xml)
 - [youtube](#youtube)
 - [zig](#zig)
@@ -1028,6 +1030,7 @@
 
 ## ios 
 
+- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [zaim-tech/flet-webview-all](https://github.com/zaim-tech/flet-webview-all) - flet-webview-all is a Flet extension that embeds web content in a Flet application. It wraps webview_all, a Flutter WebView implementation with support for Android, iOS, Linux, macOS, Windows, and the
 - [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) - A collection of my Frida instrumentation scripts to reverse engineer mobile apps and more.
@@ -1135,6 +1138,7 @@
 
 ## linux 
 
+- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [zaim-tech/flet-webview-all](https://github.com/zaim-tech/flet-webview-all) - flet-webview-all is a Flet extension that embeds web content in a Flet application. It wraps webview_all, a Flutter WebView implementation with support for Android, iOS, Linux, macOS, Windows, and the
 - [rabfulton/ChatGTK](https://github.com/rabfulton/ChatGTK) - Chatgpt like GTK Linux Client for AI large language models
@@ -1385,6 +1389,9 @@
 
 ## others 
 
+- [SushyDev/tizen-youtube](https://github.com/SushyDev/tizen-youtube) - 
+- [SushyDev/tizen-homebrew](https://github.com/SushyDev/tizen-homebrew) - 
+- [andrearicci93/vetro](https://github.com/andrearicci93/vetro) - 
 - [socram8888/anubypass](https://github.com/socram8888/anubypass) - A Chrome extension to bypass Anubis's protection.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads) - Signed device profiles, mobile exploit payloads, and KernelSU artifacts for Root My Galaxy
@@ -2001,6 +2008,10 @@
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
+## swift 
+
+- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
+
 ## symfony 
 
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
@@ -2153,6 +2164,7 @@
 
 ## windows 
 
+- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [zaim-tech/flet-webview-all](https://github.com/zaim-tech/flet-webview-all) - flet-webview-all is a Flet extension that embeds web content in a Flet application. It wraps webview_all, a Flutter WebView implementation with support for Android, iOS, Linux, macOS, Windows, and the
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
@@ -2182,6 +2194,10 @@
 ## workflow 
 
 - [boromir674/cookiecutter-python-package](https://github.com/boromir674/cookiecutter-python-package) - :globe_with_meridians: Scaffold modern Python Package Project, from a configurable Template, delivering public releases to PyPI and Dockerhub and having a CI/CD Pipeline, which supports DevOps process
+
+## xcode 
+
+- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 
 ## xml 
 
