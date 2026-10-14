@@ -1389,6 +1389,8 @@
 
 ## others 
 
+- [SushyDev/tizen-youtube](https://github.com/SushyDev/tizen-youtube) - 
+- [SushyDev/tizen-homebrew](https://github.com/SushyDev/tizen-homebrew) - 
 - [andrearicci93/vetro](https://github.com/andrearicci93/vetro) - 
 - [socram8888/anubypass](https://github.com/socram8888/anubypass) - A Chrome extension to bypass Anubis's protection.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
