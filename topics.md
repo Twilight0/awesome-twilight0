@@ -225,6 +225,7 @@
 
 ## agent-skills 
 
+- [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) - A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
@@ -281,6 +282,7 @@
 
 ## ai-agents 
 
+- [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [capsolver-ai/capsolver-mcp](https://github.com/capsolver-ai/capsolver-mcp) - MCP Server for CapSolver — give AI agents the ability to solve CAPTCHAs (reCAPTCHA v2/v3, Cloudflare Turnstile) via the Model Context Protocol. Works with Claude, Cursor, Windsurf, and any MCP client.
 - [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
@@ -580,6 +582,7 @@
 
 ## claude-code 
 
+- [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [aerovato/operator-memory](https://github.com/aerovato/operator-memory) - The self-improving context engine for coding agents.
@@ -973,7 +976,6 @@
 ## hacking 
 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 
 ## hacktoberfest 
 
@@ -1167,7 +1169,6 @@
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [kivy/plyer](https://github.com/kivy/plyer) - Plyer is a platform-independent Python wrapper for platform-dependent APIs
 - [maltfield/cross-platform-python-gui](https://github.com/maltfield/cross-platform-python-gui) - A fork-ready base for your new GUI application. Uses CI to automatically build executables for Linux (AppImage), Windows (exe), and MacOS (dmg)
 - [sdushantha/qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - Transfer files over WiFi between your computer and your smartphone from the terminal
@@ -1265,6 +1266,7 @@
 
 ## mcp 
 
+- [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [capsolver-ai/capsolver-mcp](https://github.com/capsolver-ai/capsolver-mcp) - MCP Server for CapSolver — give AI agents the ability to solve CAPTCHAs (reCAPTCHA v2/v3, Cloudflare Turnstile) via the Model Context Protocol. Works with Claude, Cursor, Windsurf, and any MCP client.
@@ -1392,6 +1394,7 @@
 
 ## others 
 
+- [amoebaOfDoom/subversion](https://github.com/amoebaOfDoom/subversion) - Super Metroid: Subversion
 - [cporter202/social-media-scraping-apis](https://github.com/cporter202/social-media-scraping-apis) - A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebook, and more. Extract posts, profiles, videos, comments, and engagement metrics.
 - [cporter202/video-scraping-apis](https://github.com/cporter202/video-scraping-apis) - A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms.
 - [subzero75/kodi-subtitle-cycler](https://github.com/subzero75/kodi-subtitle-cycler) - Kodi add-on: one remote button to cycle subtitles from any subtitle add-on, plus optional gap-free subtitle lines
@@ -1750,6 +1753,7 @@
 
 ## python 
 
+- [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou
 - [capsolver-ai/capsolver-mcp](https://github.com/capsolver-ai/capsolver-mcp) - MCP Server for CapSolver — give AI agents the ability to solve CAPTCHAs (reCAPTCHA v2/v3, Cloudflare Turnstile) via the Model Context Protocol. Works with Claude, Cursor, Windsurf, and any MCP client.
 - [zaim-tech/flet-webview-all](https://github.com/zaim-tech/flet-webview-all) - flet-webview-all is a Flet extension that embeds web content in a Flet application. It wraps webview_all, a Flutter WebView implementation with support for Android, iOS, Linux, macOS, Windows, and the
 - [sh13y/Facebook-Video-Download-API](https://github.com/sh13y/Facebook-Video-Download-API) - Production-ready Facebook Video Downloader API with web interface. Built with FastAPI + yt-dlp, featuring audio merging, multiple quality options, and streaming downloads.
@@ -1982,6 +1986,7 @@
 
 ## self-hosted 
 
+- [jub0t/concat](https://github.com/jub0t/concat) - Concat: The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.
 - [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
 - [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) - AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
@@ -2120,6 +2125,7 @@
 
 ## video 
 
+- [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [prateekralhan/Python-based-Youtube-downloader](https://github.com/prateekralhan/Python-based-Youtube-downloader) - A simple GUI for downloading youtube videos built using Python
 - [PaulleDemon/tkVideoPlayer](https://github.com/PaulleDemon/tkVideoPlayer) - Video player for tkinter.
