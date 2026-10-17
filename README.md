@@ -644,6 +644,7 @@
 ## coding 
 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+- [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android/ios
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
 ## command-line 
@@ -1330,7 +1331,6 @@
 
 ## nlp 
 
-- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn AI Engineering! Learn it. Build it. Ship it for others.
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
 
@@ -1539,7 +1539,6 @@
 - [anxdpanic/anxdpanic.github.io](https://github.com/anxdpanic/anxdpanic.github.io) - 
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [flet-dev/examples](https://github.com/flet-dev/examples) - Flet sample applications
-- [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
 - [exxeleron/qPython](https://github.com/exxeleron/qPython) - interprocess communication between Python and kdb+
 - [kivy-garden/garden](https://github.com/kivy-garden/garden) - The kivy garden installation script, split into its own package for convenient use in buildozer.
 - [kivy-garden/garden.router](https://github.com/kivy-garden/garden.router) - Routing library for Kivy
@@ -1986,7 +1985,7 @@
 
 ## self-hosted 
 
-- [jub0t/concat](https://github.com/jub0t/concat) - Concat: The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.
+- [jub0t/Concat](https://github.com/jub0t/Concat) - The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.
 - [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
 - [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) - AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
@@ -2146,7 +2145,6 @@
 
 ## vue 
 
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 
 ## vuejs 
