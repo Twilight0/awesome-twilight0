@@ -66,6 +66,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
@@ -376,6 +377,7 @@
 
 ## api 
 
+- [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [sh13y/Facebook-Video-Download-API](https://github.com/sh13y/Facebook-Video-Download-API) - Production-ready Facebook Video Downloader API with web interface. Built with FastAPI + yt-dlp, featuring audio merging, multiple quality options, and streaming downloads.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -786,6 +788,12 @@
 
 - [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
 
+## downloader 
+
+- [odrevet/yt-dlp-kivy](https://github.com/odrevet/yt-dlp-kivy) - User interface and port to several OS (including android) of yt-dlp using the kivy framework
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+- [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+
 ## dsh-plugin 
 
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
@@ -986,6 +994,7 @@
 
 ## hacktoberfest 
 
+- [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [kodi-pvr/pvr.iptvsimple](https://github.com/kodi-pvr/pvr.iptvsimple) - IPTV Simple client for Kodi PVR
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
@@ -1405,6 +1414,7 @@
 
 ## others 
 
+- [guiodic/kwin-x11](https://github.com/guiodic/kwin-x11) - Easy to use, but flexible, X Window Manager
 - [amoebaOfDoom/subversion](https://github.com/amoebaOfDoom/subversion) - Super Metroid: Subversion
 - [cporter202/social-media-scraping-apis](https://github.com/cporter202/social-media-scraping-apis) - A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebook, and more. Extract posts, profiles, videos, comments, and engagement metrics.
 - [cporter202/video-scraping-apis](https://github.com/cporter202/video-scraping-apis) - A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms.
@@ -1421,7 +1431,7 @@
 - [codejunkie99/fable-orchestrator](https://github.com/codejunkie99/fable-orchestrator) - Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.
 - [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge) - A tool to manage building cross-platform binary wheels for mobile devices
 - [Muddassir-Farooq-official/flet_pdfrx](https://github.com/Muddassir-Farooq-official/flet_pdfrx) - Python To Dart Bridge - Introducing flet-pdfrx - High-Performance PDF Viewer for Flet.
-- [demnzy/nu-age-frontend](https://github.com/demnzy/nu-age-frontend) - 
+- [demnzy/nu-age-frontend](https://github.com/demnzy/nu-age-frontend) - NuAge LMS frontend, Built in Flet.
 - [zox47/flet-paypal](https://github.com/zox47/flet-paypal) - 
 - [cporter202/cheap-sora2-api](https://github.com/cporter202/cheap-sora2-api) - This GitHub repository provides a step-by-step guide to accessing the Sora 2 API for roughly 70% cheaper than purchasing it directly from OpenAI, while delivering the exact same capabilities.
 - [Alisonsantos77/flet_android_notify](https://github.com/Alisonsantos77/flet_android_notify) - 
