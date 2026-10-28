@@ -42,6 +42,7 @@
 - [cloud](#cloud)
 - [cms](#cms)
 - [code](#code)
+- [code-review](#code-review)
 - [coding](#coding)
 - [command-line](#command-line)
 - [computer-vision](#computer-vision)
@@ -176,6 +177,7 @@
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [shell](#shell)
+- [skills](#skills)
 - [software](#software)
 - [sql](#sql)
 - [stable-diffusion](#stable-diffusion)
@@ -219,6 +221,7 @@
 
 ## agent 
 
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [aerovato/operator-memory](https://github.com/aerovato/operator-memory) - The self-improving context engine for coding agents.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
@@ -227,6 +230,7 @@
 
 ## agent-skills 
 
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) - A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.
@@ -248,6 +252,7 @@
 
 ## ai 
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [aerovato/operator-memory](https://github.com/aerovato/operator-memory) - The self-improving context engine for coding agents.
@@ -287,6 +292,7 @@
 
 ## ai-agents 
 
+- [kodelyx/free-gemini-api](https://github.com/kodelyx/free-gemini-api) - 🚀 Free Unlimited API for Google Gemini 4 Argon & Gemini 3.8 Flash. OpenAI-compatible /v1/chat/completions with Deep Thinking controls (High/Medium/Low), Go HTTP/3 QUIC, and multi-account pooling.
 - [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou
@@ -569,6 +575,7 @@
 
 ## chrome-extension 
 
+- [kodelyx/free-gemini-api](https://github.com/kodelyx/free-gemini-api) - 🚀 Free Unlimited API for Google Gemini 4 Argon & Gemini 3.8 Flash. OpenAI-compatible /v1/chat/completions with Deep Thinking controls (High/Medium/Low), Go HTTP/3 QUIC, and multi-account pooling.
 - [Ademking/MD-This-Page](https://github.com/Ademking/MD-This-Page) - Convert any web page to clean, readable Markdown with just one click.
 - [fregante/browser-extension-template](https://github.com/fregante/browser-extension-template) - 📕 Barebones boilerplate with Parcel 2, options handler and auto-publishing
 
@@ -597,6 +604,7 @@
 
 ## claude-code 
 
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
@@ -658,6 +666,10 @@
 ## code 
 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+
+## code-review 
+
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 
 ## coding 
 
@@ -771,6 +783,7 @@
 
 ## development 
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## devops 
@@ -785,6 +798,7 @@
 
 ## docker 
 
+- [kodelyx/free-gemini-api](https://github.com/kodelyx/free-gemini-api) - 🚀 Free Unlimited API for Google Gemini 4 Argon & Gemini 3.8 Flash. OpenAI-compatible /v1/chat/completions with Deep Thinking controls (High/Medium/Low), Go HTTP/3 QUIC, and multi-account pooling.
 - [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [sh13y/Facebook-Video-Download-API](https://github.com/sh13y/Facebook-Video-Download-API) - Production-ready Facebook Video Downloader API with web interface. Built with FastAPI + yt-dlp, featuring audio merging, multiple quality options, and streaming downloads.
@@ -978,6 +992,7 @@
 
 ## golang 
 
+- [kodelyx/free-gemini-api](https://github.com/kodelyx/free-gemini-api) - 🚀 Free Unlimited API for Google Gemini 4 Argon & Gemini 3.8 Flash. OpenAI-compatible /v1/chat/completions with Deep Thinking controls (High/Medium/Low), Go HTTP/3 QUIC, and multi-account pooling.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -1216,6 +1231,7 @@
 
 ## llm 
 
+- [kodelyx/free-gemini-api](https://github.com/kodelyx/free-gemini-api) - 🚀 Free Unlimited API for Google Gemini 4 Argon & Gemini 3.8 Flash. OpenAI-compatible /v1/chat/completions with Deep Thinking controls (High/Medium/Low), Go HTTP/3 QUIC, and multi-account pooling.
 - [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
 - [raphaelmansuy/code2prompt](https://github.com/raphaelmansuy/code2prompt) - Code2Prompt is a powerful command-line tool that simplifies the process of providing context to Large Language Models (LLMs) by generating a comprehensive Markdown file containing the content of your 
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
@@ -1444,11 +1460,11 @@
 
 ## others 
 
+- [linuxmint/xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp) - 
 - [google-gemini/gemini-api-cli](https://github.com/google-gemini/gemini-api-cli) - An (experimental) CLI for the Gemini API
 - [open-free-llm-api/awesome-freellm-apis](https://github.com/open-free-llm-api/awesome-freellm-apis) - 134+ free LLM APIs & AI API keys from 40+ providers. Google Gemini, NVIDIA NIM, Groq, OpenRouter & more. One-click setup for Claude Code, Cursor and Codex.
 - [cporter202/google-maps-scraping-apis](https://github.com/cporter202/google-maps-scraping-apis) - A powerhouse collection of Google Maps scraping APIs you can start using immediately to build local lead lists, monitor reviews, and power location intelligence. One of the most valuable Maps data lis
 - [ODAncona/code2prompt-mcp](https://github.com/ODAncona/code2prompt-mcp) - 
-- [android/skills](https://github.com/android/skills) - 
 - [Lorquas/repomesh](https://github.com/Lorquas/repomesh) - MCP server that builds per-repo code graphs and cross-repo dependency mesh for AI-assisted development
 - [guiodic/kwin-x11](https://github.com/guiodic/kwin-x11) - Easy to use, but flexible, X Window Manager
 - [amoebaOfDoom/subversion](https://github.com/amoebaOfDoom/subversion) - Super Metroid: Subversion
@@ -1763,6 +1779,7 @@
 
 ## privacy 
 
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
@@ -2069,6 +2086,16 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
+
+## skills 
+
+- [android/skills](https://github.com/android/skills) - 
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
+- [aerovato/operator-memory](https://github.com/aerovato/operator-memory) - The self-improving context engine for coding agents.
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 
 ## software 
 
