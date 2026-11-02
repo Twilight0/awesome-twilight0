@@ -302,6 +302,7 @@
 
 ## ai-agents 
 
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Coding agent memory for Claude Code, Codex, Cursor and 40 more, built from the session history already on your disk. Local search, MCP and hooks, no LLM, one Go binary.
 - [ReflexioAI/claude-smart](https://github.com/ReflexioAI/claude-smart) - Turns corrections into Preferences, Project-specific skills, and Shared skills for Claude Code, Codex, and OpenCode.
 - [cporter202/agentic-ai-apis](https://github.com/cporter202/agentic-ai-apis) - The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
@@ -859,6 +860,7 @@
 
 ## dsh-plugin 
 
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Coding agent memory for Claude Code, Codex, Cursor and 40 more, built from the session history already on your disk. Local search, MCP and hooks, no LLM, one Go binary.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [aerovato/operator-memory](https://github.com/aerovato/operator-memory) - The self-improving context engine for coding agents.
@@ -870,6 +872,7 @@
 
 ## electron 
 
+- [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) - Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained.
 - [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [REVENGE977/stremio-enhanced](https://github.com/REVENGE977/stremio-enhanced) - Electron-based Stremio desktop client with support for plugins and themes. This is a community project and is not affiliated with Stremio in any way.
@@ -1034,6 +1037,7 @@
 
 ## golang 
 
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Coding agent memory for Claude Code, Codex, Cursor and 40 more, built from the session history already on your disk. Local search, MCP and hooks, no LLM, one Go binary.
 - [zexadev/gemini-web2api-go](https://github.com/zexadev/gemini-web2api-go) - Gemini web → OpenAI-compatible + native Gemini API, self-hosted, no API key. Reverse-proxies gemini.google.com into /v1/chat/completions + /v1beta generateContent: single Go binary, Chrome TLS fingerp
 - [kodelyx/free-gemini-api](https://github.com/kodelyx/free-gemini-api) - 🚀 Free Unlimited API for Google Gemini 4 Argon & Gemini 3.8 Flash. OpenAI-compatible /v1/chat/completions with Deep Thinking controls (High/Medium/Low), Go HTTP/3 QUIC, and multi-account pooling.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -1484,6 +1488,7 @@
 
 ## open-source 
 
+- [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) - Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [sh13y/Facebook-Video-Download-API](https://github.com/sh13y/Facebook-Video-Download-API) - Production-ready Facebook Video Downloader API with web interface. Built with FastAPI + yt-dlp, featuring audio merging, multiple quality options, and streaming downloads.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
@@ -1523,6 +1528,7 @@
 
 ## others 
 
+- [peteromallet/desloppify](https://github.com/peteromallet/desloppify) - Agent harness to make your slop code well-engineered and beautiful.
 - [higgsfield-ai/skills](https://github.com/higgsfield-ai/skills) - 
 - [linuxmint/xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp) - 
 - [google-gemini/gemini-api-cli](https://github.com/google-gemini/gemini-api-cli) - An (experimental) CLI for the Gemini API
@@ -2115,6 +2121,7 @@
 
 ## rust 
 
+- [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) - Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
@@ -2256,6 +2263,7 @@
 
 ## typescript 
 
+- [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) - Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained.
 - [KashifKhn/gemini-proxy](https://github.com/KashifKhn/gemini-proxy) - Self-hosted OpenAI-compatible API proxy for Google Gemini — authenticated via OAuth 2.0 + PKCE, no paid API key required. Built with Bun + Hono + TypeScript.
 - [opensec-git/Pi-Bolt](https://github.com/opensec-git/Pi-Bolt) - ⚡ Pi, the coding agent, compiled ahead of time to one native executable. 10× faster to start, 7× less CPU and 4.5× less memory than Pi on Node. Linux, macOS, Windows, ARM64 and Android (Termux).
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
