@@ -209,6 +209,7 @@
 - [video](#video)
 - [visual-studio-code](#visual-studio-code)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1255,6 +1256,7 @@
 ## library 
 
 - [dateutil/dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features
+- [wolph/python-utils](https://github.com/wolph/python-utils) - Python Utils is a module with some convenient utilities not included with the standard Python install
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [sfischer13/python-lorem](https://github.com/sfischer13/python-lorem) - :snake: Python library for the generation of random text that looks like Latin
 - [kivymd/KivyMD](https://github.com/kivymd/KivyMD) - KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications. https://youtube.com/c/KivyMD https://twitter.com/Ki
@@ -1732,7 +1734,6 @@
 - [DevDungeon/Python-Kivy-Flask-Android-Example](https://github.com/DevDungeon/Python-Kivy-Flask-Android-Example) - A Python Kivy app that runs a Flask web app on desktop/Android
 - [slymax/webview](https://github.com/slymax/webview) - a template project for android studio
 - [HusamFathi/Kivy-and-KivyMD-Files-Mnager-UI](https://github.com/HusamFathi/Kivy-and-KivyMD-Files-Mnager-UI) - 
-- [wolph/python-utils](https://github.com/wolph/python-utils) - Python Utils is a module with some convenient utilities not included with the standard Python install
 - [chardet/chardet](https://github.com/chardet/chardet) - Python character encoding detector
 - [tito/kaki](https://github.com/tito/kaki) - Kivy application library on steroid
 - [osfunapps/os-android-play-console-automation-py](https://github.com/osfunapps/os-android-play-console-automation-py) - This module will automate a bunch of Google Play actions like publish apk/app bundle and image handling
@@ -2011,6 +2012,7 @@
 - [beeware/briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
 - [pytube/pytube](https://github.com/pytube/pytube) - Lightweight, dependency-free Python library and CLI for downloading YouTube videos, playlists, and captions.
 - [dermasmid/scrapetube](https://github.com/dermasmid/scrapetube) - A YouTube scraper for scraping channels, playlists, and searching 🔎
+- [wolph/python-utils](https://github.com/wolph/python-utils) - Python Utils is a module with some convenient utilities not included with the standard Python install
 - [Alir3z4/html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
 - [selwin/python-user-agents](https://github.com/selwin/python-user-agents) - A Python library that provides an easy way to identify devices like mobile phones, tablets and their capabilities by parsing (browser) user agent strings.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
@@ -2375,6 +2377,10 @@
 
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "We
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
+
+## vscode 
+
+- [claui/cookiecutter-vscode-extension](https://github.com/claui/cookiecutter-vscode-extension) - Cookiecutter template for generating Visual Studio Code extensions
 
 ## vue 
 
