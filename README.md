@@ -132,6 +132,7 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -240,6 +241,7 @@
 
 ## agent-skills 
 
+- [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA) - Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.
 - [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
 - [dceoy/speckit-agent-skills](https://github.com/dceoy/speckit-agent-skills) - Agent skills for Spec Kit
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
@@ -308,6 +310,7 @@
 
 ## ai-agents 
 
+- [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA) - Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.
 - [google/artemis](https://github.com/google/artemis) - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity,
 - [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
 - [ReflexioAI/claude-smart](https://github.com/ReflexioAI/claude-smart) - Turns corrections into Preferences, Project-specific skills, and Shared skills for Claude Code, Codex, and OpenCode.
@@ -466,6 +469,7 @@
 
 ## awesome 
 
+- [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA) - Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.
 - [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
 - [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games) - Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.
 - [gbroques/awesome-greek](https://github.com/gbroques/awesome-greek) - A curated repository of resources for learning Greek.
@@ -506,6 +510,7 @@
 
 ## awesome-list 
 
+- [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA) - Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.
 - [T4P4N/Awesome-Termux](https://github.com/T4P4N/Awesome-Termux) - Awesome Termux :- Bash Scripts, Wiki, Articles,Shells & Many More...
 - [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
 - [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games) - Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.
@@ -749,6 +754,7 @@
 
 ## cpp 
 
+- [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [agentty-org/agentty](https://github.com/agentty-org/agentty) - AI pair programming in your terminal — one static binary, sub-ms startup, any model
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -917,6 +923,7 @@
 
 ## emulator 
 
+- [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [retrospect-addon/kodi.emulator.ascii](https://github.com/retrospect-addon/kodi.emulator.ascii) - 酒 (SAKÉ): A simple emulator for Kodi modules such as xbmc, xbmcgui, xbmcaddon and xbmcplugin
 
 ## english 
@@ -1408,6 +1415,7 @@
 
 ## mcp 
 
+- [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA) - Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.
 - [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
 - [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Claude Code memory, Codex memory, Cursor memory, OpenCode memory, Gemini CLI memory, Windsurf memory & Cline memory across 43 agents. AI coding memory, Claude Code history, Cursor history, local codin
 - [cporter202/agentic-ai-apis](https://github.com/cporter202/agentic-ai-apis) - The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and
@@ -1432,6 +1440,15 @@
 - [cporter202/API-mega-list](https://github.com/cporter202/API-mega-list) - This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn AI Engineering! Learn it. Build it. Ship it for others.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
+
+## mcp-server 
+
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Claude Code memory, Codex memory, Cursor memory, OpenCode memory, Gemini CLI memory, Windsurf memory & Cline memory across 43 agents. AI coding memory, Claude Code history, Cursor history, local codin
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
+- [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI
+- [capsolver-ai/capsolver-mcp](https://github.com/capsolver-ai/capsolver-mcp) - MCP Server for CapSolver — give AI agents the ability to solve CAPTCHAs (reCAPTCHA v2/v3, Cloudflare Turnstile) via the Model Context Protocol. Works with Claude, Cursor, Windsurf, and any MCP client.
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 
 ## microsoft 
 
@@ -2142,6 +2159,8 @@
 
 ## reverse-engineering 
 
+- [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp) - Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
+- [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA) - Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.
 - [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [Zfinix/eleven](https://github.com/Zfinix/eleven) - Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.
