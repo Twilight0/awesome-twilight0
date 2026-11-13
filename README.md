@@ -680,6 +680,7 @@
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [wesammustafa/opencode-primer](https://github.com/wesammustafa/opencode-primer) - Master OpenCode, the open-source AI coding agent — setup, agents, skills, plugins, MCP, Zen & headless CI.
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server l
 
 ## claude-skills 
 
@@ -883,6 +884,7 @@
 
 ## downloader 
 
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server l
 - [odrevet/yt-dlp-kivy](https://github.com/odrevet/yt-dlp-kivy) - User interface and port to several OS (including android) of yt-dlp using the kivy framework
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
@@ -1455,6 +1457,7 @@
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI
 - [capsolver-ai/capsolver-mcp](https://github.com/capsolver-ai/capsolver-mcp) - MCP Server for CapSolver — give AI agents the ability to solve CAPTCHAs (reCAPTCHA v2/v3, Cloudflare Turnstile) via the Model Context Protocol. Works with Claude, Cursor, Windsurf, and any MCP client.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server l
 
 ## microsoft 
 
@@ -1577,7 +1580,7 @@
 
 ## others 
 
-- [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) - A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣
+- [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) - A context-compression plugin for month-long single sessions (billions of tokens)  and small context windows (a 100K context is enough) .上下文压缩插件，月级长会话， 兼顾小窗口(100k上下文足矣) . billion-context is all you nee
 - [bkerler/mtkclient](https://github.com/bkerler/mtkclient) - Mediatek Flash and Repair Utility
 - [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 - [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.
