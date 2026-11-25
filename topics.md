@@ -236,7 +236,7 @@
 
 ## agent 
 
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Towards Agentic Finance Research
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [aerovato/operator-memory](https://github.com/aerovato/operator-memory) - The self-improving context engine for coding agents.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
@@ -340,7 +340,7 @@
 - [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou
-- [capsolver-ai/capsolver-mcp](https://github.com/capsolver-ai/capsolver-mcp) - MCP Server for CapSolver — give AI agents the ability to solve CAPTCHAs (reCAPTCHA v2/v3, Cloudflare Turnstile) via the Model Context Protocol. Works with Claude, Cursor, Windsurf, and any MCP client.
+- [capsolver-ai/capsolver-mcp](https://github.com/capsolver-ai/capsolver-mcp) - Official CapSolver MCP server for Claude, Cursor, Codex, and other MCP clients. Supports multiple CAPTCHA types, including reCAPTCHA, Cloudflare Turnstile, AWS WAF, DataDome, and more, plus image reco
 - [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -476,7 +476,7 @@
 ## automation 
 
 - [cporter202/agentic-ai-apis](https://github.com/cporter202/agentic-ai-apis) - The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and
-- [capsolver-ai/capsolver-mcp](https://github.com/capsolver-ai/capsolver-mcp) - MCP Server for CapSolver — give AI agents the ability to solve CAPTCHAs (reCAPTCHA v2/v3, Cloudflare Turnstile) via the Model Context Protocol. Works with Claude, Cursor, Windsurf, and any MCP client.
+- [capsolver-ai/capsolver-mcp](https://github.com/capsolver-ai/capsolver-mcp) - Official CapSolver MCP server for Claude, Cursor, Codex, and other MCP clients. Supports multiple CAPTCHA types, including reCAPTCHA, Cloudflare Turnstile, AWS WAF, DataDome, and more, plus image reco
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -662,7 +662,7 @@
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemin
 - [aerovato/operator-memory](https://github.com/aerovato/operator-memory) - The self-improving context engine for coding agents.
 - [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) - A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.
-- [capsolver-ai/capsolver-mcp](https://github.com/capsolver-ai/capsolver-mcp) - MCP Server for CapSolver — give AI agents the ability to solve CAPTCHAs (reCAPTCHA v2/v3, Cloudflare Turnstile) via the Model Context Protocol. Works with Claude, Cursor, Windsurf, and any MCP client.
+- [capsolver-ai/capsolver-mcp](https://github.com/capsolver-ai/capsolver-mcp) - Official CapSolver MCP server for Claude, Cursor, Codex, and other MCP clients. Supports multiple CAPTCHA types, including reCAPTCHA, Cloudflare Turnstile, AWS WAF, DataDome, and more, plus image reco
 - [agentty-org/agentty](https://github.com/agentty-org/agentty) - AI pair programming in your terminal — one static binary, sub-ms startup, any model
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
@@ -977,7 +977,7 @@
 
 ## finance 
 
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Towards Agentic Finance Research
 
 ## firefox 
 
@@ -1019,6 +1019,7 @@
 - [willforde/script.module.codequick](https://github.com/willforde/script.module.codequick) - Kodi addon framework
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 
 ## frontend 
@@ -1033,6 +1034,7 @@
 
 ## game-development 
 
+- [WhiteTowerAI/ohmygame](https://github.com/WhiteTowerAI/ohmygame) - The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app. Game canvas.  Bring your own key.
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 75 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - :video_game: :game_die: A wonderful list of Game Development resources.
@@ -1046,6 +1048,7 @@
 
 ## gamedev 
 
+- [WhiteTowerAI/ohmygame](https://github.com/WhiteTowerAI/ohmygame) - The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app. Game canvas.  Bring your own key.
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 75 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - :video_game: :game_die: A wonderful list of Game Development resources.
@@ -1309,7 +1312,7 @@
 
 - [robzilla1738/muse-desktop](https://github.com/robzilla1738/muse-desktop) - Unofficial macOS, Windows, and Linux desktop companion for Muse Code by Robert Courson. Real CLI sessions, voice input, and five themes. Not affiliated with Meta.
 - [Apps2Samsung/Apps2Samsung](https://github.com/Apps2Samsung/Apps2Samsung) - One-click app installer for Samsung TVs, projectors and smart monitors (Tizen) -Jellyfin, Moonlight, and the whole community catalog.
-- [xnderv/nouveau-fix](https://github.com/xnderv/nouveau-fix) - nouveau for NVIDIA GeForce GTX 560 Ti (Fermi, GF114) on Linux 7.0: GPU hang fix, full core and GDDR5 memory reclocking, load governor. Beta.
+- [xnderv/nouveau-fix](https://github.com/xnderv/nouveau-fix) - Automatic clock changes (reclocking) for NVIDIA Fermi GPUs in nouveau — GeForce 400/500 and many 600/700 and mobile parts (GF100–GF119), computed from each card's own VBIOS, with an in-driver load gov
 - [opensec-git/Pi-Bolt](https://github.com/opensec-git/Pi-Bolt) - ⚡ Pi, the coding agent, compiled ahead of time to one native executable. 10× faster to start, 7× less CPU and 4.5× less memory than Pi on Node. Linux, macOS, Windows, ARM64 and Android (Termux).
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -1353,7 +1356,7 @@
 
 - [luqman-v1/9router-go](https://github.com/luqman-v1/9router-go) - High-performance Go proxy gateway for 9Router LLM routing — 32K RPS, 42MB RAM, CGO-free
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Towards Agentic Finance Research
 - [cporter202/agentic-ai-apis](https://github.com/cporter202/agentic-ai-apis) - The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [KashifKhn/gemini-proxy](https://github.com/KashifKhn/gemini-proxy) - Self-hosted OpenAI-compatible API proxy for Google Gemini — authenticated via OAuth 2.0 + PKCE, no paid API key required. Built with Bun + Hono + TypeScript.
@@ -1467,7 +1470,7 @@
 - [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemin
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [capsolver-ai/capsolver-mcp](https://github.com/capsolver-ai/capsolver-mcp) - MCP Server for CapSolver — give AI agents the ability to solve CAPTCHAs (reCAPTCHA v2/v3, Cloudflare Turnstile) via the Model Context Protocol. Works with Claude, Cursor, Windsurf, and any MCP client.
+- [capsolver-ai/capsolver-mcp](https://github.com/capsolver-ai/capsolver-mcp) - Official CapSolver MCP server for Claude, Cursor, Codex, and other MCP clients. Supports multiple CAPTCHA types, including reCAPTCHA, Cloudflare Turnstile, AWS WAF, DataDome, and more, plus image reco
 - [agentty-org/agentty](https://github.com/agentty-org/agentty) - AI pair programming in your terminal — one static binary, sub-ms startup, any model
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -1493,7 +1496,7 @@
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemin
-- [capsolver-ai/capsolver-mcp](https://github.com/capsolver-ai/capsolver-mcp) - MCP Server for CapSolver — give AI agents the ability to solve CAPTCHAs (reCAPTCHA v2/v3, Cloudflare Turnstile) via the Model Context Protocol. Works with Claude, Cursor, Windsurf, and any MCP client.
+- [capsolver-ai/capsolver-mcp](https://github.com/capsolver-ai/capsolver-mcp) - Official CapSolver MCP server for Claude, Cursor, Codex, and other MCP clients. Supports multiple CAPTCHA types, including reCAPTCHA, Cloudflare Turnstile, AWS WAF, DataDome, and more, plus image reco
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Local MCP server that lets Claude Code, Codex, Cursor and Gemini CLI use your own computer and your own logged-in accounts: chats, feeds, browser, files and downloads. Also a downloader for video, mus
 
@@ -1580,6 +1583,7 @@
 ## open-source 
 
 - [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) - Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained.
+- [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [sh13y/Facebook-Video-Download-API](https://github.com/sh13y/Facebook-Video-Download-API) - Production-ready Facebook Video Downloader API with web interface. Built with FastAPI + yt-dlp, featuring audio merging, multiple quality options, and streaming downloads.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
@@ -1623,7 +1627,6 @@
 
 - [anomalyco/browse](https://github.com/anomalyco/browse) - Let your AI agents use your real browser: an MCP server and a Chromium extension
 - [pia-foss/manual-connections](https://github.com/pia-foss/manual-connections) - Scripts for manual connections to Private Internet Access
-- [fulldiagnose/antigravity-fixer](https://github.com/fulldiagnose/antigravity-fixer) - Fix Antigravity 'not eligible' error - diagnose, clean credentials, auto-fix
 - [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) - A context-compression plugin for month-long single sessions (billions of tokens)  and small context windows (a 100K context is enough), billion-context is all you need .
 - [bkerler/mtkclient](https://github.com/bkerler/mtkclient) - Mediatek Flash and Repair Utility
 - [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface
@@ -2007,7 +2010,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [capsolver-ai/capsolver-mcp](https://github.com/capsolver-ai/capsolver-mcp) - MCP Server for CapSolver — give AI agents the ability to solve CAPTCHAs (reCAPTCHA v2/v3, Cloudflare Turnstile) via the Model Context Protocol. Works with Claude, Cursor, Windsurf, and any MCP client.
+- [capsolver-ai/capsolver-mcp](https://github.com/capsolver-ai/capsolver-mcp) - Official CapSolver MCP server for Claude, Cursor, Codex, and other MCP clients. Supports multiple CAPTCHA types, including reCAPTCHA, Cloudflare Turnstile, AWS WAF, DataDome, and more, plus image reco
 - [zaim-tech/flet-webview-all](https://github.com/zaim-tech/flet-webview-all) - flet-webview-all is a Flet extension that embeds web content in a Flet application. It wraps webview_all, a Flutter WebView implementation with support for Android, iOS, Linux, macOS, Windows, and the
 - [sh13y/Facebook-Video-Download-API](https://github.com/sh13y/Facebook-Video-Download-API) - Production-ready Facebook Video Downloader API with web interface. Built with FastAPI + yt-dlp, featuring audio merging, multiple quality options, and streaming downloads.
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3.1 and GLM 5.3
@@ -2273,7 +2276,7 @@
 
 - [zexadev/gemini-web2api-go](https://github.com/zexadev/gemini-web2api-go) - Gemini web → OpenAI-compatible + native Gemini API, self-hosted, no API key. Gemini 4 Argon from a paid account cookie, strict_model (429 instead of a silent downgrade), cookie pool with auto-renewal,
 - [KashifKhn/gemini-proxy](https://github.com/KashifKhn/gemini-proxy) - Self-hosted OpenAI-compatible API proxy for Google Gemini — authenticated via OAuth 2.0 + PKCE, no paid API key required. Built with Bun + Hono + TypeScript.
-- [jub0t/Concat](https://github.com/jub0t/Concat) - Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.
+- [jub0t/Concat](https://github.com/jub0t/Concat) - The open-source CapCut alternative.
 - [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
 - [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) - AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
@@ -2389,7 +2392,7 @@
 
 ## trading 
 
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Towards Agentic Finance Research
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 
 ## tui 
