@@ -1019,6 +1019,7 @@
 - [willforde/script.module.codequick](https://github.com/willforde/script.module.codequick) - Kodi addon framework
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 
 ## frontend 
@@ -2275,7 +2276,7 @@
 
 - [zexadev/gemini-web2api-go](https://github.com/zexadev/gemini-web2api-go) - Gemini web → OpenAI-compatible + native Gemini API, self-hosted, no API key. Gemini 4 Argon from a paid account cookie, strict_model (429 instead of a silent downgrade), cookie pool with auto-renewal,
 - [KashifKhn/gemini-proxy](https://github.com/KashifKhn/gemini-proxy) - Self-hosted OpenAI-compatible API proxy for Google Gemini — authenticated via OAuth 2.0 + PKCE, no paid API key required. Built with Bun + Hono + TypeScript.
-- [jub0t/Concat](https://github.com/jub0t/Concat) - Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.
+- [jub0t/Concat](https://github.com/jub0t/Concat) - The open-source CapCut alternative.
 - [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
 - [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) - AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
