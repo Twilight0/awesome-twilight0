@@ -361,6 +361,7 @@
 
 ## android 
 
+- [beppe2880/opencode-mobile](https://github.com/beppe2880/opencode-mobile) - Unofficial native Android client for OpenCode V2
 - [google/artemis](https://github.com/google/artemis) - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity,
 - [anugotta/ServalDesk](https://github.com/anugotta/ServalDesk) - ServalDesk turns your Android phone into a real Linux desktop, and can optionally act as your home screen so boot and Home open XFCE directly. Standalone APK with embedded X11, or classic Termux + TUR
 - [Apps2Samsung/Apps2Samsung](https://github.com/Apps2Samsung/Apps2Samsung) - One-click app installer for Samsung TVs, projectors and smart monitors (Tizen) -Jellyfin, Moonlight, and the whole community catalog.
@@ -426,6 +427,7 @@
 
 ## android-app 
 
+- [beppe2880/opencode-mobile](https://github.com/beppe2880/opencode-mobile) - Unofficial native Android client for OpenCode V2
 - [Apps2Samsung/Apps2Samsung](https://github.com/Apps2Samsung/Apps2Samsung) - One-click app installer for Samsung TVs, projectors and smart monitors (Tizen) -Jellyfin, Moonlight, and the whole community catalog.
 - [tortuvshin/open-apps](https://github.com/tortuvshin/open-apps) - A curated, self-refreshing directory of real open-source application codebases - built for developers who want to learn from production apps and find projects worth contributing to.
 - [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
@@ -1252,6 +1254,7 @@
 
 ## jetpack-compose 
 
+- [beppe2880/opencode-mobile](https://github.com/beppe2880/opencode-mobile) - Unofficial native Android client for OpenCode V2
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 
 ## jquery 
@@ -1276,6 +1279,7 @@
 
 ## kotlin 
 
+- [beppe2880/opencode-mobile](https://github.com/beppe2880/opencode-mobile) - Unofficial native Android client for OpenCode V2
 - [tortuvshin/open-apps](https://github.com/tortuvshin/open-apps) - A curated, self-refreshing directory of real open-source application codebases - built for developers who want to learn from production apps and find projects worth contributing to.
 
 ## kubernetes 
@@ -1625,6 +1629,7 @@
 
 ## others 
 
+- [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
 - [anomalyco/browse](https://github.com/anomalyco/browse) - Let your AI agents use your real browser: an MCP server and a Chromium extension
 - [pia-foss/manual-connections](https://github.com/pia-foss/manual-connections) - Scripts for manual connections to Private Internet Access
 - [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) - A context-compression plugin for month-long single sessions (billions of tokens)  and small context windows (a 100K context is enough), billion-context is all you need .
